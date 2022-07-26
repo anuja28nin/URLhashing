@@ -1,8 +1,6 @@
-## URL SHORTENER
-https://bitny.herokuapp.com/
+URl hashing system
 
-A url shortener.
-
-
-https://user-images.githubusercontent.com/60326725/139194571-0320acd0-dc6a-45b6-aa92-b7109bcffa37.mp4
+#Architecture choice
+Nodejs and Gradle 
+Gradle is a build tool with a focus on build automation and support for multi-language development and is termed as a powerful build system for the JVM. Reason behind using Gradle in building this system is due to its flexiblity. Also Gradle and npm are both open source tools that makes them easily accessable
 
